@@ -1,0 +1,83 @@
+
+IT SUPPORT KNOWLEDGE BASE
+
+1. Password Reset
+If an employee forgets their system password, they should visit the company password reset portal. Enter their registered email address and follow the verification instructions. A password reset link will be sent to the registered email.
+
+2. Wi-Fi Connection Issues
+If a laptop cannot connect to office Wi-Fi, first check whether Wi-Fi is enabled. Restart the laptop and reconnect to the company network. If the issue continues, contact the IT support team.
+
+3. Slow Computer
+If a computer is running slowly, close unnecessary applications. Check available disk space and restart the computer. If the problem continues, raise an IT support ticket.
+
+4. Software Installation
+Employees should not install unauthorized software. They must submit a request to the IT support team with the software name and business requirement.
+
+5. Account Locked
+If an employee account is locked after multiple incorrect password attempts, contact the IT support team for account verification and unlocking.
+
+6. Printer Issues
+Check the printer power supply, paper availability and network connection. Restart the printer if necessary. If the issue continues, create an IT support ticket.
+
+7. Wi-Fi Connected but No Internet
+
+If a laptop is connected to Wi-Fi but cannot access
+the internet, follow these troubleshooting steps:
+
+1. Check whether other websites are loading.
+2. Disconnect from the Wi-Fi network and reconnect.
+3. Restart the laptop and Wi-Fi router if permitted.
+4. Check whether other devices can access the internet
+   using the same network.
+5. If other devices also cannot access the internet,
+   the issue may be related to the network connection.
+6. If the problem continues, contact the IT support team.
+
+8. VPN Connection Issues
+
+If an employee cannot connect to the company VPN:
+
+1. Check whether the internet connection is working.
+2. Verify that the VPN application is running.
+3. Disconnect and reconnect to the VPN.
+4. Restart the VPN application.
+5. If the issue continues, contact IT support.
+
+9. Email Login Issues
+
+If an employee cannot access company email:
+
+1. Verify the registered email address.
+2. Check the internet connection.
+3. Verify the login credentials.
+4. Check whether the account is locked.
+5. If the problem continues, contact IT support.
+
+10. Laptop Running Slowly
+
+If a laptop is running slowly:
+
+1. Close unnecessary applications.
+2. Check available disk space.
+3. Restart the laptop.
+4. Check whether too many applications are running.
+5. If the problem continues, raise an IT support ticket.
+
+11. Printer Not Working
+
+If a company printer is not working:
+
+1. Check whether the printer is powered on.
+2. Verify that paper is available.
+3. Check printer connectivity.
+4. Restart the printer if necessary.
+5. If the problem continues, create an IT support ticket.
+
+12. Account Locked
+
+If an employee account is locked:
+
+1. Verify the login credentials.
+2. Avoid repeatedly entering incorrect passwords.
+3. Follow the company account recovery procedure.
+4. Contact IT support if the account remains locked.

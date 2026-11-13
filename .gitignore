@@ -1,0 +1,28 @@
+
+# Python environment
+venv/
+.venv/
+__pycache__/
+*.py[cod]
+
+# Environment variables and secrets
+.env
+.env.*
+.streamlit/secrets.toml
+
+# Streamlit cache
+.streamlit/cache/
+
+# Temporary files
+*.log
+.DS_Store
+Thumbs.db
+
+# Uploaded user documents
+uploads/
+user_uploads/
+uploaded_documents/
+
+# Python test/cache files
+.pytest_cache/
+.mypy_cache/
